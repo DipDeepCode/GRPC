@@ -1,5 +1,5 @@
 syntax = "proto3";
-package ru.ddc.grpc_server;
+package ru.ddc;
 
 message HelloRequest {
 

@@ -1,7 +1,8 @@
-package ru.ddc.grpc_server;
+package ru.ddc.server;
 
 import io.grpc.Server;
 import io.grpc.ServerBuilder;
+import ru.ddc.GreetingServiceImpl;
 
 import java.io.IOException;
 

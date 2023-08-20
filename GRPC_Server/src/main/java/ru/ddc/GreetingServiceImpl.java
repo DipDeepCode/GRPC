@@ -1,4 +1,4 @@
-package ru.ddc.grpc_server;
+package ru.ddc;
 
 import io.grpc.stub.StreamObserver;
 
